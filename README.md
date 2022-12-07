@@ -1,2 +1,2 @@
-# My-first_reposirty
+# My-first_repository
 An aspiring Cybersecurity and Software Engineer
